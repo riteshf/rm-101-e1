@@ -1,6 +1,6 @@
 # Task
 
-- Create a Similar page to [TODO App with Item Count](https://rct-101-e1.herokuapp.com/) using the Provided Boilerplate
+- Create a Similar page to [TODO App with Item Count](https://task-app-ritesf.netlify.app) using the Provided Boilerplate
 
 # Getting Started
 
